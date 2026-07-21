@@ -153,34 +153,36 @@ Azure administration, Azure networking, Windows Server administration, VM deploy
 
 ## Screenshots
 
-Screenshots are stored in `/screenshots` and referenced below. Replace the filenames with your actual uploaded images.
+All screenshots are in `/screenshots`.
 
 | # | Screenshot | Description |
 |---|---|---|
-| 01 | `01-resource-groups.png` | Resource group list |
-| 02 | `02-network-rg.png` | Networking resource group |
-| 03 | `03-vnet.png` | Virtual network |
-| 04 | `04-subnets.png` | Subnets |
-| 05 | `05-web-nsg.png` | Web NSG |
-| 06 | `06-nsg-list.png` | NSG list |
-| 07 | `07-subnet-associations.png` | Subnet associations |
-| 08 | `08-http-rule.png` | HTTP inbound rule |
-| 09 | `09-inbound-rules.png` | Inbound rules |
-| 10 | `10-vm-overview.png` | VM overview |
-| 11 | `11-vm-config.png` | VM configuration |
-| 12 | `12-vm-running.png` | VM running state |
-| 13 | `13-vm-networking.png` | VM networking |
-| 14 | `14-resource-visualizer.png` | Resource visualizer |
-| 15 | `15-rdp-config.png` | RDP configuration |
-| 16 | `16-website-live.png` | Website reachable externally |
-| 17 | `17-storage-account.png` | Storage account |
-| 18 | `18-blob-container.png` | Blob container |
-| 19 | `19-uploaded-blob.png` | Uploaded blob |
-| 20 | `20-recovery-vault.png` | Recovery Services Vault |
-| 21 | `21-cost-management.png` | Cost analysis |
-| 22 | `22-rbac.png` | RBAC role assignment |
-
-Additional device photos taken during setup (IIS install, server desktop, live site) can go in the same folder, numbered 23-26.
+| 01 | `01_nbl_network_rg.jpg` | Networking resource group |
+| 02 | `02_resources_group_list.jpg` | Full resource group list |
+| 03 | `03_nbl_vnet_core.jpg` | Virtual network |
+| 04 | `04_nbl_vnet_core_subnets.jpg` | Subnets |
+| 05 | `05_nbl_web_nsg.jpg` | Web NSG |
+| 06 | `06_network_security_group_list.jpg` | NSG list |
+| 07 | `07_association_subnets_list.jpg` | Subnet associations |
+| 08 | `08_allowing_http_to_web_subnet.jpg` | HTTP inbound rule |
+| 09 | `09_inbound_security_rules.jpg` | Inbound security rules |
+| 10 | `10_nbl_compute_vm01.jpg` | Compute resource group / VM |
+| 11 | `11_nbl_web_vm01.jpg` | VM overview |
+| 12 | `12_nbl_web_vm01.jpg` | VM configuration |
+| 13 | `13_nbl_web_vm01.jpg` | VM running state |
+| 14 | `14_nbl_web_vm01_resource_visualizer.jpg` | Resource visualizer |
+| 15 | `15_nbl_web_vm01_adding_rdp_rule.jpg` | Adding RDP rule |
+| 16 | `16_nbl_windows_server_main_page.jpeg` | Windows Server desktop / main page |
+| 17 | `17_nbl_windows_server_adding_roles_features.jpeg` | Adding IIS role and features, step 1 |
+| 18 | `18_nbl_windows_server_adding_roles_features.jpg` | Adding IIS role and features, step 2 |
+| 19 | `19_nbl_windows_server_localhost.jpeg` | IIS default page confirmed on localhost |
+| 20 | `20_nbl_windows_server_testing_outside_vm.jpg` | Website tested and confirmed reachable from outside the VM |
+| 21 | `21_nbl_storage.jpg` | Storage account |
+| 22 | `22_nbl_storage_container.jpg` | Blob container |
+| 23 | `23_nbl_storage_logo_uploaded.jpg` | Uploaded blob (logo) |
+| 24 | `24_nbl_backup_vm01.jpg` | Recovery Services Vault / VM backup |
+| 25 | `25_nbl_cost_management.jpg` | Cost analysis |
+| 26 | `26_nbl_rbac.jpg` | RBAC role assignment |
 
 ## Future Improvements
 
